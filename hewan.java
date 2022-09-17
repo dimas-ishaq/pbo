@@ -5,7 +5,7 @@ public class hewan {
     String mata, mulut, kaki, telinga, ekor;
 
     public String bermain(String x) {
-        return (x + 25);
+        return (x);
 
     }
 
